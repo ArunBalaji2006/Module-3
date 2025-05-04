@@ -9,10 +9,10 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
-'''
+```
  L=[153,147,124,102] 
 print(sum(L))) 
-'''
+```
 
 
 ## Output
